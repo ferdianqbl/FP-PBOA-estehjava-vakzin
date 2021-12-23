@@ -7,3 +7,10 @@
  
  ### Referensi atau tutorial yang kami gunakan
  [How to Make a 2D Game in Java](https://www.youtube.com/playlist?list=PL_QPQmz5C6WUF-pOQDsbsKbaBZqXj4qSq)
+ 
+ ### Gameplay
+ > W (Atas)
+ > A (Kiri)
+ > S (Bawah)
+ > D (Kanan)
+ > Space (Memulai permainan atau melanjutkan ke section tertentu)
