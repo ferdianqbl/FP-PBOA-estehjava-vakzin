@@ -1,8 +1,8 @@
 # Vakzin Game
 **FP PBO A - EsTehJava**
 
-> Dibuat Oleh :
- :+1: Naufal Adli Purnama    5025201195
+> Dibuat Oleh : <br>
+ :+1: Naufal Adli Purnama    5025201195 <br>
  :+1: Muhammad Ferdian Iqbal 5025201020
  
  ### Referensi atau tutorial yang kami gunakan
