@@ -9,8 +9,8 @@
  [How to Make a 2D Game in Java](https://www.youtube.com/playlist?list=PL_QPQmz5C6WUF-pOQDsbsKbaBZqXj4qSq)
  
  ### Gameplay
- > W (Atas)
- > A (Kiri)
- > S (Bawah)
- > D (Kanan)
+ > W (Atas) <br>
+ > A (Kiri) <br>
+ > S (Bawah) <br>
+ > D (Kanan) <br>
  > Space (Memulai permainan atau melanjutkan ke section tertentu)
